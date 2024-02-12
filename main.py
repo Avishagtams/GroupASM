@@ -2,7 +2,7 @@
 Group:
 NAME: Avishag Tamsut ID: 326275609
 NAME: Sahar Emmona ID: 213431133
-NAME: Merav Hashta ID: 326275609
+NAME: Merav Hashta ID: 214718405
 """
 def initialize_matrix(n):
     """
